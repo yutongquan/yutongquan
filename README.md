@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 # Yutong Quan 👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@yutong-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/yutong_quan)](https://x.com/yutong_quan) 
-[![Linkedin Badge](https://img.shields.io/badge/-yutong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutongquan/)](https://www.linkedin.com/in/yutongquan/) 
-[![Medium Badge](https://img.shields.io/badge/-@yutong-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yutong_quan)](https://medium.com/@yutong_quan) 
-[![Outlook Badge](https://img.shields.io/badge/-Email_me-0078D4?style=flat-square&labelColor=0078D4&logo=Microsoft-Outlook&logoColor=white&link=mailto:yutongq@outlook.com)](mailto:yutongq@outlook.com)
+[![Twitter Badge](https://img.shields.io/badge/-@yutongquan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/yutong_quan)](https://x.com/yutong_quan) 
+[![Linkedin Badge](https://img.shields.io/badge/-yutongquan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutongquan/)](https://www.linkedin.com/in/yutongquan/) 
+[![Medium Badge](https://img.shields.io/badge/-@yutongquan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yutong_quan)](https://medium.com/@yutong_quan) 
+[![Outlook Badge](https://img.shields.io/badge/-yutongq@outlook.com-0078D4?style=flat-square&labelColor=0078D4&logo=Microsoft-Outlook&logoColor=white&link=mailto:yutongq@outlook.com)](mailto:yutongq@outlook.com)
 ---
 
 [![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/yutong_quan)](https://x.com/yutong_quan) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutongquan/)](https://www.linkedin.com/in/yutongquan/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yutong_quan)](https://medium.com/@yutong_quan)
