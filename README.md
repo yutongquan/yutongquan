@@ -6,7 +6,7 @@
 [![Outlook Badge](https://img.shields.io/badge/-yutongq@outlook.com-0078D4?style=flat-square&labelColor=0078D4)](mailto:yutongq@outlook.com)
 ---
 
-## Hi there 👋,
+## Hi there 👋
 
 -------
   
