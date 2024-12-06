@@ -10,7 +10,7 @@
 
 -------
   
-## 🧐 About
+## 🧐 About Me
 
 - 🏫 **Who I Am:** Currently a student at Columbia University, pursuing a Master’s in Quantitative Methods in the Social Sciences (QMSS).  
 - 🤖 **What I Love:** Passionate about Human-Computer Interaction (HCI), particularly its intersections with blockchain governance and AI.  
