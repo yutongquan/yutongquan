@@ -1,14 +1,14 @@
 # Yutong Quan 👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@yutongquan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/yutong_quan)](https://x.com/yutong_quan) 
-[![Linkedin Badge](https://img.shields.io/badge/-yutongquan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutongquan/)](https://www.linkedin.com/in/yutongquan/) 
-[![Medium Badge](https://img.shields.io/badge/-@yutongquan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yutong_quan)](https://medium.com/@yutong_quan) 
-[![Outlook Badge](https://img.shields.io/badge/-yutongq@outlook.com-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft%20Ooutlook&logoColor=white&link=mailto:yutongq@outlook.com)](mailto:yutongq@outlook.com)
+[![Twitter Badge](https://img.shields.io/badge/-@yutongquan-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=x&logoColor=white&link=https://x.com/yutong_quan)](https://x.com/yutong_quan) 
+[![Linkedin Badge](https://img.shields.io/badge/-yutongquan-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutongquan/)](https://www.linkedin.com/in/yutongquan/) 
+[![Medium Badge](https://img.shields.io/badge/-@yutongquan-00AB6C?style=flat-square&labelColor=000000&logo=Medium&logoColor=white&link=https://medium.com/@yutong_quan)](https://medium.com/@yutong_quan) 
+[![Outlook Badge](https://img.shields.io/badge/-yutongq@outlook.com-FBBC05?style=flat-square&labelColor=EA4335&logo=email&logoColor=white&link=mailto:yutongq@outlook.com)](mailto:yutongq@outlook.com)
 ---
 
 ## Hi there 👋,
 
-### I'm Yutong Quan, trying to combine data, technology, and creativity to drive meaningful change in both research and society.
+### I'm Yutong Quan, and I'm trying to combine data, technology, and creativity to drive meaningful change in both research and society.
 -------
   
 ## 🧐 About
