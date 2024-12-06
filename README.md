@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**yutongquan/yutongquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Yutong Quan 👨‍💻
 
 [![Twitter Badge](https://img.shields.io/badge/-@yutongquan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/yutong_quan)](https://x.com/yutong_quan) 
@@ -23,36 +6,29 @@ Here are some ideas to get you started:
 [![Outlook Badge](https://img.shields.io/badge/-yutongq@outlook.com-0078D4?style=flat-square&labelColor=0078D4&logo=Microsoft-Outlook&logoColor=white&link=mailto:yutongq@outlook.com)](mailto:yutongq@outlook.com)
 ---
 
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/yutong_quan)](https://x.com/yutong_quan) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yutongquan/)](https://www.linkedin.com/in/yutongquan/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yutong_quan)](https://medium.com/@yutong_quan)
----
-
 ## Hi there 👋,
 
-### I'm Yutong Quan
+### I'm Yutong Quan, who is trying to combining data, technology, and creativity to drive meaningful change in both research and society.
 -------
   
 ## 🧐 About
 
-- 🏄‍ 
-- 😄 
-- 🔭 
-- 🌱 
-- 👯 And Many More...
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🏫 **Who I Am:** Currently a student at Columbia University, pursuing a Master’s in Quantitative Methods in the Social Sciences (QMSS).  
+- 🤖 **What I Love:** Passionate about Human-Computer Interaction (HCI), particularly its intersections with blockchain governance and AI.  
+- 🌍 **NGO Activities:** Enthusiastically interested in humanitarian initiatives, including those by UNHCR and UNICEF.  
+- 🍴 **Fun Fact:** I love traveling, discovering amazing food spots, and learning new languages. Currently studying Korean and planning to learn French!  
+- 📚 **Research Highlights:**  
+  - **Blockchain Governance Sentiment Analysis** (Aave & Uniswap): Leveraged NLP (VADER sentiment analysis) to analyze social discussions within Discord forums.  
+  - **Enhancing Blockchain Governance with LLMs:** Developed fine-tuning methodologies for Large Language Models (LLMs) using data from the Uniswap community.  
+  - **NFT Valuation Mechanics:** Conducted sentiment analysis and price predictions for CryptoPunks, combining AI ethics with machine learning techniques.  
+
+
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything!
-- 📫 How to reach me: Feel free to [email me](mailto:yutongq@outlook.com) on Outlook!
-- ⚡ Fun fact: 
-- 💬 Ping Me
-
+- 📫 **How to reach me:** Feel free to [email me](mailto:yutongq@outlook.com) on Outlook!  
+- 😄 **Pronouns:** She/Her  
+- 🌟 **What Drives Me:** I find joy in connecting ideas, people, and technologies to create meaningful impacts in both academic and real-world settings.
 
 ![Yutong's github stats](https://github-readme-stats.vercel.app/api?username=yutongquan&show_icons=true)
