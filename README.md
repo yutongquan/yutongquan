@@ -8,7 +8,7 @@
 
 ## Hi there 👋,
 
-### I'm Yutong Quan, who is trying to combining data, technology, and creativity to drive meaningful change in both research and society.
+### I'm Yutong Quan, trying to combine data, technology, and creativity to drive meaningful change in both research and society.
 -------
   
 ## 🧐 About
