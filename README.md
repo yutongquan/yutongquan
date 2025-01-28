@@ -13,9 +13,9 @@
 ## 🧐 About Me
 
 - 🏫 **Who I Am:** Currently a student at Columbia University, pursuing a Master’s in Quantitative Methods in the Social Sciences (QMSS).  
-- 🤖 **What I Love:** Passionate about Human-Computer Interaction (HCI), particularly its intersections with blockchain governance and AI.  
+- 🤖 **What I Love:** Passionate about Human-Computer Interaction (HCI), particularly its intersections with AI, society, and blockchain governance.  
 - 🌍 **NGO Activities:** Enthusiastically interested in humanitarian initiatives, including those by UNHCR and UNICEF.  
-- 🍴 **Fun Fact:** I love traveling, discovering amazing food spots, and learning new languages. Currently studying Korean and planning to learn French!  
+- 🍴 **Fun Fact:** I love traveling, discovering amazing food spots, and learning new languages. I speak Mandarin Chinese and English. Currently studying Korean and planning to learn French!  
 - 📚 **Research Highlights:**  
   - **Blockchain Governance Sentiment Analysis** (Aave & Uniswap): Leveraged NLP (VADER sentiment analysis) to analyze social discussions within Discord forums.  
   - **Enhancing Blockchain Governance with LLMs:** Developed fine-tuning methodologies for Large Language Models (LLMs) using data from the Uniswap community.  
