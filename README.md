@@ -29,5 +29,3 @@
 - 📫 **How to reach me:** Feel free to [email me](mailto:yutongq@outlook.com) on Outlook!  
 - 😄 **Pronouns:** She/Her  
 - 🌟 **What Drives Me:** I find joy in connecting ideas, people, and technologies to create meaningful impacts in both academic and real-world settings.
-
-![Yutong's github stats](https://github-readme-stats.vercel.app/api?username=yutongquan&show_icons=true)
